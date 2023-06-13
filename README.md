@@ -1,4 +1,4 @@
 ### Hi there 👋
 ## WELCOME TO MY PAGE!! 
-
-[perro con compu] (https://i.ytimg.com/vi/BcQstKwzPtU/maxresdefault.jpg)
+#### Estoy aprendiendo programaciòn
+<img>https://i.ytimg.com/vi/BcQstKwzPtU/maxresdefault.jpg<img>
